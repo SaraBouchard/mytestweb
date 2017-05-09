@@ -7,3 +7,6 @@ h2 {
 body {
     background-image: url("http://i295.photobucket.com/albums/mm144/zabadabadingdong00/ALlayout/stripes.gif");
 }
+h2 {
+    text-decoration: underline;
+}
