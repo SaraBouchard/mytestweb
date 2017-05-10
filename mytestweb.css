@@ -18,12 +18,12 @@ h2 {
 
 
 
-div, h1,h2,h3
+div, h1,h2,h3,
          {
     font-family: Tahoma;
 }
 
 p.ex {
-    height: 100px;
+    height: 150px;
     width: 100px;
 }
